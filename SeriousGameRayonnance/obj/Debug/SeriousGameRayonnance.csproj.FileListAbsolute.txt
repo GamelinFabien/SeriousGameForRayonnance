@@ -1,0 +1,6 @@
+C:\Users\Fabien gamel\Documents\GitHub\SeriousGameRayonnance\SeriousGameRayonnance\bin\Debug\SeriousGameRayonnance.exe.config
+C:\Users\Fabien gamel\Documents\GitHub\SeriousGameRayonnance\SeriousGameRayonnance\bin\Debug\SeriousGameRayonnance.exe
+C:\Users\Fabien gamel\Documents\GitHub\SeriousGameRayonnance\SeriousGameRayonnance\bin\Debug\SeriousGameRayonnance.pdb
+C:\Users\Fabien gamel\Documents\GitHub\SeriousGameRayonnance\SeriousGameRayonnance\obj\Debug\SeriousGameRayonnance.csprojResolveAssemblyReference.cache
+C:\Users\Fabien gamel\Documents\GitHub\SeriousGameRayonnance\SeriousGameRayonnance\obj\Debug\SeriousGameRayonnance.exe
+C:\Users\Fabien gamel\Documents\GitHub\SeriousGameRayonnance\SeriousGameRayonnance\obj\Debug\SeriousGameRayonnance.pdb
